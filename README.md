@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mouna KETATA</h1>
 
+- 📫 How to reach me **ketata.mouna@ieee.org**
 
+- ⚡ Fun fact **Make learning funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mouna-ketata-3b0430226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouali-ali-33026072" height="30" width="40" /></a>
