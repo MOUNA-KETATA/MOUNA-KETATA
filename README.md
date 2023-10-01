@@ -15,6 +15,6 @@
 <a href="https://www.w3schools.com/cpp/default.asp" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/php/default.asp" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/866/528/png-transparent-php-web-development-perl-logo-php-logo-cdr-text-trademark-thumbnail.png" alt="php" width="40" height="40"/> </a>
 <a href="https://flutter.dev/learn" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="flutter" width="40" height="40"/> </a>
-<a href=" https://www.mathworks.com/products/matlab.html"target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/866/528/png-transparent-php-web-development-perl-logo-php-logo-cdr-text-trademark-thumbnail.png" alt="matlab" width="40" height="40"/>  </a>
+<a href=" https://www.mathworks.com/products/matlab.html"target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>  </a>
 </p>
 
