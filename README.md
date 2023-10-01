@@ -4,8 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mouna-ketata-3b0430226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bouali-ali-33026072" height="30" width="40" /></a>
-<a href="https://instagram.com/mounaa_ketata/?igshid=OGQ5ZDc2ODk2ZA%3D%3D&fbclid=IwAR1Bs9f-dkAKx5FnHBeE8otKFMsqVOhZgm_gwHxb7iHvj6U8dHpD5a0xfg0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alibou_coding" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xcw6JyptqA" height="30" width="40" /></a>
+<a href="https://instagram.com/mounaa_ketata/?igshid=OGQ5ZDc2ODk2ZA%3D%3D&fbclid=IwAR1Bs9f-dkAKx5FnHBeE8otKFMsqVOhZgm_gwHxb7iHvj6U8dHpD5a0xfg0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mouna" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mouna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
